@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 type Podruto = {
     preco: number;
     nome: string;
@@ -21,3 +22,7 @@ carrinho.map((p) => {
     }
 }
 )
+=======
+console.log("hello world")
+
+>>>>>>> 1be3b983f67832f3b670708bcb0ebe84fc0f9310
